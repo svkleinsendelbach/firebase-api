@@ -24,7 +24,7 @@
   "main": "lib/src/index.js",
   "dependencies": {
     "cross-fetch": "^4.0.0",
-    "discord.js": "^14.13.0",
+    "discord.js": "^14.14.1",
     "firebase-function": "^1.4.73",
     "firebase-functions": "^4.4.1",
     "fontkit": "^2.0.2",
